@@ -46,5 +46,8 @@ ex.: digitar códigos`
 |item 3| item 4|
 
 ![JBorges GitHub stats](https://github-readme-stats.vercel.app/api?username=jucileneborges&show_icons=true&theme=radical)
+
+_Choose theme:_ `dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula`
+
 - Github stats by [Anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
