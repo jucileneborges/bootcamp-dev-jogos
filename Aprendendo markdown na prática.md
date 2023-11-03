@@ -30,9 +30,9 @@ ex.: digitar códigos`
 1. Terceiro item
 
 ##### Criando listas de tarefas
-- [] Task 1
-- [] Task 2
-- [] Task 3
+- [ ] Task 1
+- [ ] Task 2
+- [x] Task 3
 
 ##### **Mostrando vídeos e imagens**
 
