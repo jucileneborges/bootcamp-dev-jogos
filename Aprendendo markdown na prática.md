@@ -45,5 +45,6 @@ ex.: digitar códigos`
 | item 1 | item 2|
 |item 3| item 4|
 
-
+![JBorges GitHub stats](https://github-readme-stats.vercel.app/api?username=jucileneborges&show_icons=true&theme=radical)
+- Github stats by [Anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
