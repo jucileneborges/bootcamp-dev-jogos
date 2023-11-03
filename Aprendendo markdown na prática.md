@@ -38,6 +38,12 @@ ex.: digitar códigos`
 
 ![Mostrando vídeos/imagens](https://static.vecteezy.com/ti/fotos-gratis/t2/22653879-fantasia-ilha-com-cachoeiras-3d-ilustracao-elementos-do-isto-imagem-mobiliado-de-nasa-generativo-ai-gratis-foto.jpg)
 
+#### Esqueci de criar tabelas kkk
+
+| cabeçalho1 | cabeçalho2 |
+| :---: | :---:|
+| item 1 | item 2|
+|item 3| item 4|
 
 
 
